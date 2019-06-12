@@ -36,5 +36,6 @@ The following are some of the topics we briefly discussed and want to learn more
 * Edit the WTD meetup page (currently out of date info, for example location)
 * Schedule the next meetup (same social round-table discussion format) in 3 weeks, preferably during the work week (Wednesday or Thursday afternoon)
 * Establish a rotation for discussion moderators for every meetup (Ania, thank you for volunteering)
+* Set an agenda for the next meetup
 * Make the notes available to the group
 * Join the WTD #ireland slack
