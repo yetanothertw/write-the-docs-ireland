@@ -15,7 +15,7 @@
 **Meeting Minutes:**
 
 The following are some of the topics we briefly discussed and want to learn more about:
-* Discussions on Style Guides (use of Gerund vs Imperative mood in procedure/task based topics)
+* Discussions on Style Guides (use of gerund vs imperative mood in procedure/task based topics)
 * Interest in information security and accessibility (ISO standards)
 * Privacy policies around social networks
 * Grammar structure/style guides
@@ -24,9 +24,9 @@ The following are some of the topics we briefly discussed and want to learn more
 * Accessibility mini-presentation from Alan
 * Richard will share his experience on training devs to write better
 * Bridget will give a short presentation on information mapping, structure (eu directives)
-* Vlada will talk about minimialism principles that can be used in peer reviews
+* Vlada will talk about minimalism principles that can be used in peer reviews
 * Alan to talk about payment service directive (PSD2): multi-factor authentication
-* Others will prepare short presentations on other topics (TBD)
+* Others will prepare short presentations on other topics (Ania to talk about style guides - TBD)
 * Include twitter account for [useless assist](https://twitter.com/uselessassist) (funny examples of poor documentation)
 * 25th July next meetup
 
