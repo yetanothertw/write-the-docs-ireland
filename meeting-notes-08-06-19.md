@@ -31,6 +31,7 @@ The following are some of the topics we briefly discussed and want to learn more
 * How to convince your (non-docs) manager of importance of quality docs?
 * Decisions, arguments, pros and cons relating to the documentation presentation layer. How is such a decision reached, what influences it and how is this measured?
 * There is a strong need for a community of like-minded folks!
+* this is a test message
 
 **Actions:**
 * Edit the WTD meetup page (currently out of date info, for example location)
