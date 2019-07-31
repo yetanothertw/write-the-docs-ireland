@@ -16,7 +16,6 @@ The goal is to meet fellow documentarians over coffee, make introductions, prese
 The following are some of the topics we briefly discussed and want to learn more about:
 * Topic-based authoring
  * Short history of Darwin Information Typing Architecture (DITA)
- * Different topic types
  * Using acronyms in topics
  * Documentation templates
 * Minimalism
@@ -26,8 +25,7 @@ The following are some of the topics we briefly discussed and want to learn more
  * Clear, consistent titles
  * Getting rid of the unnecessary “fluff”
  * Including error recovery/troubleshooting at the end of the procedure
-* Plain language
- * Roots and how it is used
+* Plain language roots and how it is used
  * Difference between plain language and simplified English
  * Using structure and layout to organise your content
  * Using plain language in your style guide
