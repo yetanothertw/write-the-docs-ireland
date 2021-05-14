@@ -1,0 +1,60 @@
+# [Write the Docs Ireland](https://www.meetup.com/Write-The-Docs-Ireland/)
+### Social Meetup Notes and Agenda
+
+#### May 13th, 2021
+
+**Topic: Content designers and technical writers – differences and similarities!**
+**Moderator:** Vlada
+**Panel:** Yvette Harrington, Mary Attridge, and Luaithrenn Dempsey - content designers at IBM
+
+**Meetup Notes:**
+
+Q: What is content design?
+* Content designers are part of the design team rather than engineering
+* You make the decision into where to provide help and how to provide it
+* Includes creating a content journey map - how does a user move through the product and where will they need help?
+* Submitting a content proposal - ‘I’m going to provide this help in this context’
+* Decisions are made based on what we know about the persona
+* Critiques of content with colleagues
+* Playback - goes to wider team. Opportunity to back up decisions made
+* Aim is to keep the users in the UI, so involves a close working relationship with UX designers, usability studies, and feedback 
+* “Less is more”
+
+Q: How do you collaborate with SMEs?
+* Development process follows Agile method and involves iterative sprints creating content as the product or feature is developed
+* Key SME: Product managers, UX designers, developers. Might include marketing and messaging
+
+Q: What are some challenges of content design?
+* Can be challenging to migrate from technical writing (information developer) to content design. Helps to have a transition map that outlines changes in deliverables and activities. (Takes time)
+    * Transition map: Maps the following two columns/flows:  
+    1. The TW/ID flow: As a TW/ID I do the following activities/deliverables throughout the project lifecycle phases
+    2. The CD flow: As a CD I now need to do the following activities/deliverables throughout the project lifecycle phases
+* More content choices to consider, for example UI copy, tooltips, messages, walk-through tour content, and documentation content
+* Which aspects to prioritise and deliver, as you can't do it all 
+* Mindset change that you’re trying to keep the user in the UI and meet their content needs. Might involve:
+    * Using a digital adoption platform to create onboarding tours
+    * Spending a lot of time refining the language, voice & tone, style. 
+    * Figuring out steps and limiting to those steps
+    * Helping and guiding them through the tasks
+* For some products, the goal is not to have any external documentation (persona-based). The UI has imited real-estate, so every word has to earn its place
+
+Q: What are the key differences or similarities to technical writing?
+* Content designers own the end-to-end content experience, so also might include some technical writing pieces (for example, conceptual, reference)
+* Definite overlap in language skills; brevity is key
+
+Q: How do you determine content needs?
+* Attending user research and review meetings, taking personal notes and starting to think what points might require further assistance
+* Map out the user journey-where will the user need help, what UI element can I use to support that?
+* Think of clever ways of introducting help and try to prevent the user from getting stuck
+* Don't over-document things
+* Real-life example: "Feature discovery tips" - Highlights something that’s new in the UI using a “balloon step”. Have to consider how it displays and how the user exits?
+
+Q: What tools do you use to create content?
+* Similar to technical writers, depends on the type of content you're creating. For example:
+    * Video content (Camtasia)
+    * Digital adoption platform
+    * Research tools
+    * Miro
+    * Invision
+    * Sketch
+    * Write in Markdown
